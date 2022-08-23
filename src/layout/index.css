@@ -5,8 +5,10 @@
 .container {
 display: flex;
 flex-wrap: wrap;
-  row-gap: 10px;
-  column-gap: 20px;
+gap: 20px;
+justify-content: center;
+align-content: flex-start;
+
 
 }
 
