@@ -6,12 +6,15 @@
 display: flex;
 flex-wrap: wrap;
 gap: 20px;
-justify-content: center;
-align-content: flex-start;
+justify-content: flex-start;
+align-content: center;
+align-items: center;
 
 
 }
 
 .item{
+height: 200px;
+width: 200px;
 
 }
