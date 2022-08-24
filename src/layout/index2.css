@@ -1,0 +1,13 @@
+.container, .item {
+ padding: 10рх
+ border: 1px solid #000000;
+}
+.container {
+display: grid;
+
+}
+
+.item{
+
+
+}

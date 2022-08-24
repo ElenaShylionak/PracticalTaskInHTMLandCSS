@@ -4,11 +4,13 @@
 }
 .container {
 display: flex;
-flex-wrap: wrap;
+flex-wrap:rap;
+flex-direction: column;
 gap: 20px;
-justify-content: flex-start;
+justify-content: center;
 align-content: center;
 align-items: center;
+height: 700px;
 
 
 }
